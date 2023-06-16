@@ -19,3 +19,12 @@ body {
     margin-left: 25px;
     margin-top: -10px;
 }
+
+.whoami {
+    font-family: "Comic Sans MS", sans-serif;
+    font-size: 20px;
+    color: #db2626;
+    text-shadow: 2px 2px 2px #a22222;
+    margin-left: 25px;
+    margin-top: -10px;
+}
