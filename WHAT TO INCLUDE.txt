@@ -1,8 +1,0 @@
-WHAT TO INCLUDE
-
-name
-age
-work
-links to work
-studios i work on
-etc
